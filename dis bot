@@ -1,0 +1,7 @@
+git clone https://github.com/Ariyanking/dristy-bot.git
+cd dristy-bot
+# ZIP থেকে সব ফাইল আনতে:
+unzip /path/to/dristy-full.zip -d .
+git add .
+git commit -m "🎉 Initial commit: Discord + Messenger bot full version"
+git push origin main
